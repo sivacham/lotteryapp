@@ -1,0 +1,5 @@
+The Winning Combination Numbers today were :[4, 8, 7, 8, 12, 47]
+The Numbers entered via Lottery Were :[1, 2, 5, 4, 8, 7]
+
+Congratulations!! You are the lucky winner of 50 PHP. Better Luck Next Time
+
